@@ -21,3 +21,9 @@ Connect to Machine Learning tools that can:
 Perform cursory Exploratory Data Analysis, and
 create a Machine Learning model that can predict a company’s likelihood of bankruptcy in the next fiscal year.
 Use the model to make a prediction. MSBA is considering 10 companies for a new portfolio. Use the model to determine each of the 10 companies’ likelihood of filing for bankruptcy.
+
+--------------------------------------------------------------------------
+Link to Presentation:
+https://youtu.be/9ekVfFtCQAQ
+
+Showcases completed cloud structure with presentation to management.
